@@ -1,0 +1,8 @@
+ADVANTGO MEDIA SITE: BEFORE YOU GO LIVE
+
+1. Upload all files to the root of advantgomedia.com. Keep file names as they are.
+2. Booking: every "Book" button opens your Zcal link (https://zcal.co/i/c1vYp0-G) in a new tab.
+3. Submit sitemap.xml in Google Search Console (https://advantgomedia.com/sitemap.xml).
+4. Logo files included: logo-mark.png (header), logo.png, favicon.png, apple-touch-icon.png and
+   og-image.png (social share image). If you get a higher-resolution logo, replace them with the same names.
+5. Still needed: Terms and Privacy pages. Add real case studies and client quotes when you have them.
